@@ -223,7 +223,7 @@
             "type": "kubectl"
           },
           {
-            "background": "#f36943",
+            "background": "#f6badf",
             "background_templates": [
               "{{if eq \"Charging\" .State.String}}#dd9bf6{{end}}",
               "{{if eq \"Discharging\" .State.String}}#dd9bf6{{end}}",
